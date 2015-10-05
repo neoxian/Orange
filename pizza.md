@@ -1,3 +1,3 @@
 # a pizza file
 
-tomato, cheese
+tomato, cheese, pepperoni
